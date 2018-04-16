@@ -1,6 +1,7 @@
 h1{
   font-family: verdana;
   color:blue;
+  background-color: green;
 }
 
  h2{
@@ -13,5 +14,5 @@ p{
 }
 
 body {
-    background-color: "#ffcccc";
+    background-color: green;
 }
