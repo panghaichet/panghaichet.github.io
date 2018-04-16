@@ -5,7 +5,7 @@ h1{
 
  h2{
   font-family: verdana;
-  color:red;
+  color: black;
 }
 
 p{
@@ -13,5 +13,5 @@ p{
 }
 
 body {
-    background-color: #ff9900;
+    background-color: Red;
 }
